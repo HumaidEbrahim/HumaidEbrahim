@@ -11,6 +11,8 @@ I'm Humaid, a student passionate about programming, 3D graphics and cats.
 
 ![HumaidEbrahim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumaidEbrahim&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EFA351&background=FFF4F600&repeat=false&width=435&lines=Projects)](https://git.io/typing-svg)
 
 ### My Favourite Course that I've completed was [Nand2Tetris](https://github.com/HumaidEbrahim/Nand2Tetris)
