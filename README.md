@@ -12,5 +12,5 @@ I'm Humaid, a student passionate about programming, 3D graphics and cats.
 
 ![HumaidEbrahim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumaidEbrahim&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-### My Favourite Course which I've completed was [Nand2Tetris](https://github.com/HumaidEbrahim/Nand2Tetris)
+### My Favourite Course that I've completed was [Nand2Tetris](https://github.com/HumaidEbrahim/Nand2Tetris)
 I'm also really getting in to functional programming
