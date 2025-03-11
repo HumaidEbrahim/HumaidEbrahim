@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF816F&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
-I'm Humaid, a junior dev passionate about, programming, computer graphics and cats.
+I'm Humaid, a junior dev passionate about programming, computer graphics and cats.
 
 
 ## Languages
