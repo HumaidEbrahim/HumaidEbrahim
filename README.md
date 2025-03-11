@@ -2,6 +2,14 @@
 
 I'm Humaid, a student passionate about programming, 3D graphics and cats.
 
+<div style="border-left: 4px solid #8A2BE2; padding: 10px; background-color: #1e1e2e; color: white;">
+<strong>Hey, I'm RoseSecurity!</strong>  
+I write Infrastructure-as-Code and automation to help startups and established companies quickly and securely build their cloud environments, but when I'm not building cloud networks, you can catch me conducting security research to identify modern tactics, techniques, and procedures used by malicious actors.  
+
+If you enjoy my code, blogs, or tools, feel free to reach out and connect!
+</div>
+
+
 ## Languages
 > - Python
 > - C#
