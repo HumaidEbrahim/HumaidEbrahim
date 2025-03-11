@@ -9,4 +9,4 @@
 - Racket
 - SML
 
-## My Favourite Course to complete was Nand2Tetris 
+### My Favourite Course which I've completed was Nand2Tetris https://github.com/HumaidEbrahim/Nand2Tetris.git
