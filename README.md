@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF816F&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
-I'm Humaid, a student passionate about programming, 3D graphics and cats.
+### I'm *Humaid*, a student passionate about programming, 3D graphics and cats.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8CB6FC&background=FFF4F600&repeat=false&width=435&lines=Languages)](https://git.io/typing-svg)
 > - Python
