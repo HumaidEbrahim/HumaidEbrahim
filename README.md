@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF816F&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
 I'm Humaid, a student passionate about programming, 3D graphics and cats.
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+
 ## Languages
 - Python
 - C#
