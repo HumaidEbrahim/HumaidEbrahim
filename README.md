@@ -2,7 +2,7 @@
 
 I'm Humaid, a student passionate about programming, 3D graphics and cats.
 
-## Languages
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8CB6FC&background=FFF4F600&width=435&lines=Languages...)](https://git.io/typing-svg)
 > - Python
 > - C#
 > - Java
