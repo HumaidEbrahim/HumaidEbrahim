@@ -3,7 +3,6 @@
 I'm Humaid, a student passionate about programming, 3D graphics and cats.
 
 ## Languages
-> [!WARNING]
 > - Python
 > - C#
 > - Java
