@@ -17,8 +17,8 @@
 
 ### Courses completed
 > - CS50
-> -Nand2Tetris Part1
-> -Systematic Program Design
+> - Nand2Tetris Part1
+> - Systematic Program Design
 
 ### My Favourite Course that I've completed was [Nand2Tetris](https://github.com/HumaidEbrahim/Nand2Tetris)
 I'm also really getting in to functional programming
