@@ -15,10 +15,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EFA351&background=FFF4F600&repeat=false&width=435&lines=Projects)](https://git.io/typing-svg)
 
-Courses completed
-CS50
-Nand2Tetris Part1
-Systematic Program Design
+### Courses completed
+> - CS50
+> -Nand2Tetris Part1
+> -Systematic Program Design
 
 ### My Favourite Course that I've completed was [Nand2Tetris](https://github.com/HumaidEbrahim/Nand2Tetris)
 I'm also really getting in to functional programming
