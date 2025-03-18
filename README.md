@@ -15,6 +15,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EFA351&background=FFF4F600&repeat=false&width=435&lines=Projects)](https://git.io/typing-svg)
 
+### Courses ongoing
+> - Programming Languages A
+>  - Full Stack Open
+>  - Machine Learning Specialization
+
 ### Courses completed
 > - CS50
 > - Nand2Tetris Part1
