@@ -9,7 +9,7 @@
 > - Racket
 > - SML
 
-![HumaidEbrahim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumaidEbrahim&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![HumaidEbrahim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumaidEbrahm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
