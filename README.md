@@ -26,4 +26,4 @@
 > - Systematic Program Design
 
 ### My Favourite Course that I've completed was [Nand2Tetris](https://github.com/HumaidEbrahim/Nand2Tetris)
-I'm also really getting in to functional programming
+I'm also really getting in to functional 
